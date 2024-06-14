@@ -1,5 +1,5 @@
-#ifndef __TADLista_H
-#define __TADLista_H
+#ifndef __TADListaDL_H
+#define __TADListaDL_H
 /*
 IMPLEMENTACIONES DEL TAD LISTA (TADLista.h)
 AUTOR: Edgardo Adrián Franco Martínez (C) Marzo 2017
@@ -110,4 +110,4 @@ void Replace (lista *l,posicion p, elemento e);
 //Función para usarse en depuración, la cuál imprime las direcciones de 
 //memoria de los nodos y su apuntador a siguiente
 void VerLigasLista(lista *l);
-#endif    // __TADLista_H
+#endif    // __TADListaDL_H
