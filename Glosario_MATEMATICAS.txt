@@ -1,0 +1,200 @@
+Álgebra: Rama de las matemáticas que usa letras y símbolos para representar números y resolver ecuaciones.
+Aritmética: Estudio de números y operaciones básicas como suma y resta.
+Geometría: Estudio de las propiedades y medidas de las figuras y el espacio.
+Trigonometría: Rama de la geometría que se enfoca en triángulos y sus relaciones angulares.
+Cálculo: Estudio de tasas de cambio y acumulación de cantidades.
+Estadística: Análisis de datos y obtención de conclusiones.
+Probabilidad: Medida de la incertidumbre en eventos aleatorios.
+Variable: Cantidad que puede cambiar en una ecuación o experimento.
+Ecuación: Expresión matemática con igualdad.
+Número primo: Número divisible solo por 1 y sí mismo.
+Fracción: Número que representa una parte de un todo.
+Raíz cuadrada: Valor que, multiplicado por sí mismo, da un número.
+Pi (π): Número irracional que representa la relación entre la circunferencia y el diámetro de un círculo (3.14159...).
+Exponente: Número que indica cuántas veces se multiplica una base.
+Logaritmo: Función inversa de la potenciación.
+Matriz: Arreglo rectangular de números o elementos.
+Función: Relación entre entradas y salidas en matemáticas.
+Límite: Valor hacia el cual se acerca una secuencia.
+Derivada: Tasa de cambio instantánea en cálculo.
+Integral: Área bajo una curva en cálculo.
+Polinomio: Expresión algebraica con términos variables.
+Paralelogramo: Cuadrilátero con lados opuestos paralelos.
+Teorema: Proposición matemática demostrable.
+Congruencia: Relación de igualdad entre figuras geométricas.
+Hipotenusa: Lado más largo en un triángulo rectángulo.
+Teorema de Pitágoras: Relación entre lados en triángulos rectángulos.
+Circunferencia: Línea curva que rodea un círculo.
+Vértice: Punto donde se encuentran dos lados en una figura.
+Tangente: Recta que toca una curva en un solo punto.
+Polígono: Figura plana con lados y vértices.
+Mínimo común múltiplo (MCM): Menor múltiplo compartido por números.
+Máximo común divisor (MCD): Mayor divisor compartido por números.
+Media aritmética: Promedio de un conjunto de números.
+Mediana: Valor medio en una serie ordenada.
+Moda: Valor que aparece con mayor frecuencia.
+Histograma: Gráfico que muestra distribución de datos.
+Permutación: Ordenamiento de elementos.
+Combinación: Selección de elementos sin importar orden.
+Notación sigma (Σ): Sumatoria de una serie de números.
+Probabilidad condicional: Probabilidad dada una condición previa.
+Teorema de Bayes: Formula probabilidades condicionales.
+Variable aleatoria: Variable con resultados inciertos.
+Regla de tres: Método proporcional para resolver problemas.
+Geometría euclidiana: Geometría basada en postulados de Euclides.
+Polígono regular: Figura con lados y ángulos iguales.
+Ángulo agudo: Ángulo menor de 90 grados.
+Ángulo obtuso: Ángulo mayor de 90 grados.
+Ángulo recto: Ángulo de 90 grados.
+Ángulo llano: Ángulo de 180 grados.
+Ángulo completo: Ángulo de 360 grados.
+Tangente trigonométrica: Razón entre cateto opuesto y adyacente.
+Seno trigonométrico: Razón entre cateto opuesto e hipotenusa.
+Coseno trigonométrico: Razón entre cateto adyacente e hipotenusa.
+Regla del coseno: Fórmula para calcular lados en un triángulo.
+Regla del seno: Fórmula para calcular lados en un triángulo.
+Sucesión: Serie de números en un patrón.
+Fracción impropia: Fracción con numerador mayor que el denominador.
+Número complejo: Número con parte real e imaginaria.
+Factorial: Producto de números enteros positivos hasta uno dado (n!).
+Función cuadrática: Función de segundo grado.
+Función lineal: Función de primer grado.
+Coordenadas cartesianas: Sistema de ubicación en el plano.
+Intersección: Punto donde se cruzan dos líneas.
+Vector: Cantidad con magnitud y dirección.
+Área: Medida de superficie.
+Perímetro: Suma de longitudes de lados de una figura.
+Escala: Proporción entre medidas en un mapa y la realidad.
+Figura sólida: Objeto tridimensional.
+Círculo unitario: Círculo con radio de 1 unidad.
+Fracción decimal: Número decimal entre 0 y 1.
+Valor absoluto: Distancia de un número al origen.
+Notación científica: Expresión de números en potencias de 10.
+Teorema de Fermat: Afirmación sobre números primos.
+Sucesión de Fibonacci: Serie numérica donde cada número es la suma de los dos anteriores.
+Teorema de los ángulos suplementarios: Suma de ángulos suplementarios es 180 grados.
+Teorema de los ángulos complementarios: Suma de ángulos complementarios es 90 grados.
+Teorema de Thales: Propiedad de semejanza en triángulos.
+Par ordenado: Par de números (x, y) en un plano.
+Función exponencial: Función con base elevada a una potencia.
+Teorema de la función inversa: Propiedad de funciones inversas.
+Números reales: Conjunto de números que incluye los racionales e irracionales.
+Línea recta: Serie infinita de puntos en una sola dirección.
+Teorema de los senos: Relación entre lados y ángulos en un triángulo.
+Teorema de los cosenos: Relación entre lados y ángulos en un triángulo.
+Ángulo suplementario: Dos ángulos cuya suma es 180 grados.
+Ángulo complementario: Dos ángulos cuya suma es 90 grados.
+Secante: Recíproco del coseno en trigonometría.
+Cosecante: Recíproco del seno en trigonometría.
+Cotangente: Recíproco de la tangente en trigonometría.
+Ángulo sólido: Medida de apertura en un cono tridimensional.
+Sucesión geométrica: Serie con razón constante entre términos.
+Notación de intervalo: Expresión de un conjunto de números entre dos valores.
+Ley de los signos en multiplicación: Producto de números con diferentes signos es negativo.
+Ley de los signos en suma y resta: Signos iguales suman, signos diferentes restan.
+Regla de la cadena: Regla para derivar funciones compuestas.
+Teorema fundamental del cálculo: Relación entre derivadas e integrales.
+Teorema de Bolzano-Weierstrass: Todo conjunto acotado tiene una subsucesión convergente.
+Teorema del valor intermedio: Propiedad de continuidad en funciones.
+Teorema de límite central: Distribución de la media de muestras grandes.
+Notación de conjuntos: Representación de conjuntos usando llaves { }.
+Inecuación: Desigualdad matemática.
+Desigualdad compuesta: Combinación de desigualdades.
+Parábola: Curva en forma de U.
+Asíntota: Línea que una curva se acerca pero nunca toca.
+Espacio vectorial: Conjunto con operaciones de suma y multiplicación por escalar.
+Punto de inflexión: Punto donde una curva cambia de concavidad.
+Cofactor: Determinante de una matriz sin una fila y columna.
+Determinante: Valor que describe una matriz cuadrada.
+Teorema de Riemann-Roch: Teorema en teoría de números.
+Teorema de la divergencia: Relación entre integrales y divergencia de campos vectoriales.
+Serie de Taylor: Expansión de una función en una serie infinita.
+Teorema de Fermat: Principio de mínimos en cálculo de variaciones.
+Teorema de Fermat sobre la suma de dos cuadrados: Representación de números como suma de dos cuadrados.
+Sucesión armónica: Serie de números inversos naturales.
+Cuadrado mágico: Matriz con sumas iguales en filas, columnas y diagonales.
+Congruencia de números: Igualdad en módulo entre números enteros.
+Teorema de los cuatro colores: Teorema de la coloración de mapas planos.
+Axioma: Enunciado autoevidente en matemáticas.
+Conjetura: Suposición sin prueba.
+Teorema de Fermat sobre el último teorema: Demostración de Fermat.
+Cálculo vectorial: Estudio de vectores y campos vectoriales.
+Cálculo multivariable: Estudio de funciones de varias variables.
+Teorema de Stokes: Relación entre integrales y derivadas en cálculo vectorial.
+Ecuaciones diferenciales: Estudio de funciones y sus derivadas.
+Coordenadas polares: Sistema de coordenadas usando radio y ángulo.
+Cono: Sólido tridimensional con base circular y vértice puntiagudo.
+Hipérbola: Curva con dos ramas que se alejan.
+Ecuación de la recta: Expresión que describe una línea.
+Algoritmo: Conjunto de pasos para resolver un problema.
+Línea de número real: Recta que representa todos los números reales.
+Cálculo integral definido: Integral con límites específicos.
+Teorema del residuo: Teorema en análisis complejo.
+Número irracional: Número que no puede expresarse como fracción.
+Número imaginario: Número con parte imaginaria.
+Fórmula de Herón: Fórmula para área de un triángulo dados sus lados.
+Serie geométrica: Serie con razón constante entre términos.
+Cuadrado perfecto: Número que es el cuadrado de un entero.
+Conjunto vacío: Conjunto sin elementos.
+Ley de De Morgan: Regla para complementos de conjuntos.
+Teorema de la función implícita: Relación entre derivadas de funciones implícitas.
+Función trigonométrica inversa: Función que deshace operaciones trigonométricas.
+Regla de los exponentes: Regla para simplificar potencias.
+Lugar geométrico: Conjunto de puntos que cumplen una condición.
+Número primo gemelo: Par de números primos con diferencia de 2.
+Función continua: Función sin saltos ni discontinuidades.
+Función periódica: Función que se repite en intervalos regulares.
+Dominio: Conjunto de entradas válidas en una función.
+Coordenadas polares: Sistema de coordenadas basado en ángulo y distancia al origen.
+Espacio métrico: Conjunto con una distancia definida.
+Ley de los senos: Relación entre lados y senos en un triángulo.
+Ley de los cosenos: Relación entre lados y cosenos en un triángulo.
+Proporción áurea: Relación numérica especial (φ ≈ 1.61803...).
+Teorema de Fermat sobre los enteros: Teorema en teoría de números.
+Principio de inclusión-exclusión: Método de contar conjuntos intersecados.
+Límite superior: Supremo de un conjunto acotado.
+Límite inferior: Ínfimo de un conjunto acotado.
+Secuencia convergente: Secuencia que tiende a un límite.
+Regla de Cramer: Método para resolver sistemas de ecuaciones lineales.
+Teorema de la función inversa: Relación entre derivadas de funciones inversas.
+Cálculo de variaciones: Estudio de extremos de funcionales.
+Transformada de Laplace: Transformación integral usada en ecuaciones diferenciales.
+Notación de Big O: Notación para describir la complejidad de algoritmos.
+Teorema de Ptolomeo: Relación entre lados y diagonales en cuadriláteros cíclicos.
+Geometría analítica: Estudio de figuras usando coordenadas.
+Teorema de Green: Relación entre integrales y campos vectoriales en el plano.
+Teorema de Cauchy: Relación entre integrales en análisis complejo.
+Sucesión de Cauchy: Secuencia con límites cercanos.
+Teorema de los tres puntos: Propiedad de funciones polinómicas.
+Series telescópicas: Series donde términos se cancelan.
+Conjugado complejo: Número complejo con signo opuesto en la parte imaginaria.
+Teorema de los residuos: Teorema en análisis complejo.
+Par ordenado: Dos números o elementos en un orden específico.
+Par ordenado ordenado: Par ordenado con un primer elemento y un segundo elemento.
+Par ordenado no ordenado: Par ordenado sin un orden específico.
+Congruencia: Relación de igualdad en módulo entre números enteros.
+Número racional: Número expresable como fracción.
+Línea recta: Conjunto infinito de puntos en una dirección.
+Teorema de Euler: Relación entre números complejos y trigonométricos.
+Sucesión aritmética: Serie con diferencia constante entre términos.
+Geometría proyectiva: Estudio de propiedades invariante en proyecciones.
+Gráfico: Representación visual de datos o funciones.
+Sucesión convergente: Secuencia que tiende a un valor límite.
+Área bajo la curva: Medida de superficie debajo de una función.
+Punto de tangencia: Punto donde una curva toca una línea.
+Línea de Euler: Línea que pasa por centroides en un triángulo.
+Cuerda: Segmento de línea entre dos puntos en una curva.
+Raíz cúbica: Valor que, multiplicado por sí mismo tres veces, da un número.
+Raíz cuarta: Valor que, multiplicado por sí mismo cuatro veces, da un número.
+Raíz n-ésima: Valor que, multiplicado por sí mismo n veces, da un número.
+Ley de los gases ideales: Relación entre presión, volumen y temperatura.
+Combinatoria: Estudio de combinaciones y permutaciones.
+Función hiperbólica: Funciones relacionadas con la hiperbola.
+Teorema del límite central: Distribución de muestras grandes.
+Curva de Bézier: Curva definida por puntos de control.
+Teorema de Bayes: Fórmula para probabilidad condicional.
+Espacio topológico: Conjunto con una estructura topológica.
+Teorema de la divergencia de Gauss: Relación entre integrales y campos vectoriales.
+Teorema de Godel: Teorema en lógica matemática.
+Función constante: Función con un valor constante.
+Función identidad: Función donde la entrada es igual a la salida.
