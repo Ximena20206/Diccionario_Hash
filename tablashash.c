@@ -373,7 +373,7 @@ void consultar_estadisticas(TablaHash *tabla) {
         if (pasos_max > orden_max_busqueda) {
             orden_max_busqueda = pasos_max;
         }
-;
+
     }
 
     // Imprimir estadísticas finales
@@ -411,14 +411,8 @@ int seleccionar_funcion_hash(){
         printf("Ingrese el numero de la opcion que desea utilizar: ");
         scanf("%d", &opcion);
         getchar(); // Capturar el salto de línea después de la opción
-        if (opcion != 1 && opcion != 2) {
+        if (opcion != 1 && opcion != 2)
             printf("Opcion no valida. Por favor, ingrese 1 o 2.\n");
-        }
     } while (opcion != 1 && opcion != 2);
     return opcion;
 }
-
-
-
-
-

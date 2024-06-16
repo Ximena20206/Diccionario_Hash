@@ -8,9 +8,11 @@
 #include <string.h>
 #include "tablashash.h"  
 #include <math.h>
+#include <locale.h>
 
 
 int main( ){
+    setlocale(LC_ALL, "es_ES.UTF-8");
     TablaHash tabla;
     crear_tabla(&tabla);
 
