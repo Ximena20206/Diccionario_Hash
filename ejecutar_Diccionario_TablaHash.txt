@@ -1,0 +1,5 @@
+@echo off
+
+cscript //nologo maximize.vbs
+gcc main_tablashash.c tablashash.c TADListaDL.c -o a
+pause
